@@ -59,7 +59,7 @@ A complete PHP-based **Hospital Management System** web application that allows 
 
 ## 📷 Screenshots
 
-`/project-screenshots/Role.png`  
+`project-screenshots/Role.png`  
 `/screenshots/patient_registration.png`  
 `/screenshots/appointments.png`  
 `/screenshots/billing.png`
