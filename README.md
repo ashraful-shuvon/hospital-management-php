@@ -24,9 +24,8 @@ A complete PHP-based **Hospital Management System** web application that allows 
 ✅ Medical Records Management (Diagnosis, Prescription, Tests)  
 ✅ Billing System with Automated Amounts  
 ✅ Admin Dashboard for Monitoring  
-✅ Responsive UI with Bootstrap  
 ✅ Real-Time Date/Time Inputs  
-✅ Relational Database with ERD
+✅ Relational Database 
 
 ---
 
