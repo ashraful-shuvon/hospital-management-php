@@ -59,17 +59,10 @@ A complete PHP-based **Hospital Management System** web application that allows 
 
 ## 📷 Screenshots
 
-<<<<<<< HEAD
-[`/project-screenshots/Role.png`](./project-screenshots/Role.png)
-[`/project-screenshots/Admin.png`](./project-screenshots/Admin.png)
-[`/project-screenshots/Doctor.png`](./project-screenshots/Doctor.png)
-[`/project-screenshots/Patient.png`](./project-screenshots/Patient.png)
-=======
-`project-screenshots/Role.png`  
-`/screenshots/patient_registration.png`  
-`/screenshots/appointments.png`  
-`/screenshots/billing.png`
->>>>>>> 112279fc273f86d199cc8aab37a4df395c3e07df
+[`project-screenshots/Role.png`](project-screenshots/Role.png) 
+[`project-screenshots/Role.png`](project-screenshots/Admin.png) 
+[`project-screenshots/Role.png`](project-screenshots/Doctor.png) 
+[`project-screenshots/Role.png`](project-screenshots/Patient.png) 
 
 
 ## 🗃️ Database Schema
