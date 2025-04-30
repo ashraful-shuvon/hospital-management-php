@@ -70,7 +70,7 @@ A complete PHP-based **Hospital Management System** web application that allows 
 ---
 ![View bills](project-screenshots/View_bills.png)
 ---
-![Bill receipt](project-screenshots/Bill_receipt.png)
+![Bill receipt](project-screenshots/Bill_Receipt.png)
 
 
 
