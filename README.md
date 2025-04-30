@@ -59,10 +59,10 @@ A complete PHP-based **Hospital Management System** web application that allows 
 
 ## 📷 Screenshots
 
-`/project-screenshots/Role.png`  
-`/screenshots/patient_registration.png`  
-`/screenshots/appointments.png`  
-`/screenshots/billing.png`
+[`/project-screenshots/Role.png`](./project-screenshots/Role.png)
+[`/project-screenshots/Admin.png`](./project-screenshots/Admin.png)
+[`/project-screenshots/Doctor.png`](./project-screenshots/Doctor.png)
+[`/project-screenshots/Patient.png`](./project-screenshots/Patient.png)
 
 
 ## 🗃️ Database Schema
@@ -77,4 +77,4 @@ The schema includes 6 tables:
 5. **medical_records**  
 6. **billing**
 
-> You can find the full SQL schema here: [`/Applications/XAMPP/xamppfiles/htdocs/hospital_management_system/hospital_management.sql`](./Applications/XAMPP/xamppfiles/htdocs/hospital_management_system/hospital_management.sql)
+> You can find the full SQL schema here: [`hospital_management.sql`](.hospital_management.sql)
